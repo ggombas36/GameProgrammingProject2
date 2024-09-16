@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mines" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAABAgAAGAAAAAAAAAggQAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\Mines.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesFireDepthCharge" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesFireDepthCharge.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesHealthSystem" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesHealthSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesSpecial" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesSpecial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesBlack" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesBlack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesBlue" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesBlue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesPurple" Collapsed="true">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAQAAAAAAAAgAAAAQAAgAAACAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesPurple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesRed" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesRed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MinesYellow" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Scripts\Mines\MinesYellow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
